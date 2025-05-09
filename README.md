@@ -15,7 +15,6 @@ This project is an Excel-based dashboard analyzing a bike sales dataset of 1,000
 
 ##  Tools Used
 - Microsoft Excel
-- Power Query (optional)
 - Visualization via built-in Excel charts
 
 ---
